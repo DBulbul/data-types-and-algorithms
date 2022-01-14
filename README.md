@@ -1,2 +1,2 @@
 # data-types-and-algorithms
-The file is for Patika.dev projects 
+The file is opened for Patika.dev projects 
